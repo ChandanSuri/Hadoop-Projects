@@ -11,7 +11,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <storm.version>0.9.1.2.1.1.0-385</storm.version>
         <storm.kafka.version>0.9.1.2.1.1.0-385</storm.kafka.version>
-        <hadoop.version>2.4.0.2.1.1.0-385</hadoop.version>
+        <hadoop.version>2.7.0</hadoop.version>
         <log4j.version>1.2.17</log4j.version>
         <storm.hdfs.version>0.9.1.2.1.2.0-402</storm.hdfs.version>
         <hbase.version>0.98.0.2.1.1.0-385-hadoop2</hbase.version>
